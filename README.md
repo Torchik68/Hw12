@@ -1,7 +1,6 @@
 Завдання 1 (ПРАКТИКА)
-
-Пройдено кімнату (https://tryhackme.com/room/cve202226134)
- 
+Чомусь не можу ніяк прогрузити сервер і із калі, і із атак бокс
+Кімната (https://tryhackme.com/room/cve202226134) 
 ![Скріншот кімнати 1](screenshots/Try_1.png)
 
 Лаба 1 - https://portswigger.net/web-security/os-command-injection/lab-simple
